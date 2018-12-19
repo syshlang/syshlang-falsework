@@ -10,7 +10,6 @@
 package com.grgbanking.uwb.common.util.message;
 
 import org.springframework.context.support.ReloadableResourceBundleMessageSource;
-import org.springframework.util.StringUtils;
 import tk.mybatis.mapper.util.StringUtil;
 
 import java.util.Locale;
