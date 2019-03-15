@@ -328,8 +328,8 @@
         <module>falsework-framework</module>
         <module>falsework-system</module>
         <module>falsework-web</module>
-        <module>smart-mvc</module>
-        <module>smart-static</module>
+        <module>falsework-mvc</module>
+        <module>falsework-static</module>
     </modules>
     <build>
         <plugins>

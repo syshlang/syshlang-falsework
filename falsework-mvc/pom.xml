@@ -7,7 +7,7 @@
 		<groupId>com.grgbanking</groupId>
 		<version>1.0-SNAPSHOT</version>
 	</parent>
-	<artifactId>smart-mvc</artifactId>
+	<artifactId>falsework-mvc</artifactId>
 	<packaging>jar</packaging>
 	<name>${project.artifactId}</name>
 	
