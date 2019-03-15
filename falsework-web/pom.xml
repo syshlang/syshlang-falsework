@@ -57,7 +57,7 @@
         </profile>
     </profiles>
     <build>
-        <finalName>uwb</finalName>
+        <finalName>falsework</finalName>
         <filters>
             <filter>src/main/resources/profiles/${env}/jdbc.properties</filter>
         </filters>

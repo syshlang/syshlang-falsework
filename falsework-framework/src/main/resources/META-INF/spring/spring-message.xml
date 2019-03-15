@@ -40,7 +40,7 @@
 	</bean>
 	
 	<bean class="org.springframework.beans.factory.config.MethodInvokingFactoryBean">
-		<property name="staticMethod" value="com.grgbanking.uwb.common.util.message.MessageSourceHelper.setMessageSource"/>
+		<property name="staticMethod" value="com.syshlang.falsework.common.util.message.MessageSourceHelper.setMessageSource"/>
 		<property name="arguments" ref="messageSource"/>
 	</bean>
 	   	

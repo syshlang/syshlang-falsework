@@ -17,7 +17,7 @@
 		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.0.xsd">
 
     <!-- Controller扫描包 -->
-    <context:component-scan base-package="com.grgbanking.uwb.system.controller"/>
+    <context:component-scan base-package="com.syshlang.falsework.system.controller"/>
 
     <!-- 注解支持 -->
     <mvc:annotation-driven/>
@@ -28,7 +28,7 @@
         <!-- 公共拦截器 -->
         <mvc:interceptor>
             <mvc:mapping path="/**"/>
-            <bean class="com.grgbanking.uwb.framework.interceptor.WebInterceptor"></bean>
+            <bean class="com.syshlang.falsework.framework.interceptor.WebInterceptor"></bean>
         </mvc:interceptor>
     </mvc:interceptors>
 
@@ -83,7 +83,7 @@
     <bean id="fmXmlEscape" class="freemarker.template.utility.XmlEscape"/>
 
     <!-- 自定义异常处理 -->
-    <bean id="exceptionResolver" class="com.grgbanking.uwb.framework.exception.ExceptionResolver" />
+    <bean id="exceptionResolver" class="com.syshlang.falsework.framework.exception.ExceptionResolver" />
 
 
 

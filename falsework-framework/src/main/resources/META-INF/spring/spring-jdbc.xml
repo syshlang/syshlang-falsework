@@ -15,7 +15,7 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd   http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx.xsd http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd">
 
     <!-- 配置数据源 -->
-    <bean id="jdbcProperties" class="com.grgbanking.uwb.common.util.property.EncryptPropertyPlaceholderConfigurer">
+    <bean id="jdbcProperties" class="com.syshlang.falsework.common.util.property.EncryptPropertyPlaceholderConfigurer">
         <property name="ignoreUnresolvablePlaceholders" value="true" />
         <property name="fileEncoding" value="UTF-8" />
         <property name="locations">
