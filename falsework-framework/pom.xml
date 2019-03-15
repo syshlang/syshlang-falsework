@@ -4,9 +4,8 @@
   ~ @File: pom.xml
   ~ @Description:
   ~ @Author: sunys
-  ~ @Date: 18-12-17 上午8:37
+  ~ @Date: 18-12-17 下午2:07
   ~ @since:
-  ~
   -->
 
 <project xmlns="http://maven.apache.org/POM/4.0.0"
@@ -19,7 +18,11 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>uwb-common</artifactId>
-
-
+    <artifactId>falsework-framework</artifactId>
+    <dependencies>
+        <dependency>
+            <groupId>com.grgbanking</groupId>
+            <artifactId>falsework-common</artifactId>
+        </dependency>
+    </dependencies>
 </project>

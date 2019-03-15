@@ -4,7 +4,7 @@
   ~ @File: pom.xml
   ~ @Description:
   ~ @Author: sunys
-  ~ @Date: 18-12-17 上午8:36
+  ~ @Date: 18-12-17 上午8:37
   ~ @since:
   ~
   -->
@@ -19,7 +19,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>uwb-api</artifactId>
+    <artifactId>falsework-common</artifactId>
 
 
 </project>

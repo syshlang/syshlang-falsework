@@ -55,22 +55,22 @@
         <dependencies>
             <dependency>
                 <groupId>com.grgbanking</groupId>
-                <artifactId>uwb-api</artifactId>
+                <artifactId>falsework-api</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.grgbanking</groupId>
-                <artifactId>uwb-common</artifactId>
+                <artifactId>falsework-common</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.grgbanking</groupId>
-                <artifactId>uwb-framework</artifactId>
+                <artifactId>falsework-framework</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.grgbanking</groupId>
-                <artifactId>uwb-system</artifactId>
+                <artifactId>falsework-system</artifactId>
                 <version>${project.version}</version>
             </dependency>
         </dependencies>
@@ -323,11 +323,11 @@
     </dependencies>
 
     <modules>
-        <module>uwb-api</module>
-        <module>uwb-common</module>
-        <module>uwb-framework</module>
-        <module>uwb-system</module>
-        <module>uwb-web</module>
+        <module>falsework-api</module>
+        <module>falsework-common</module>
+        <module>falsework-framework</module>
+        <module>falsework-system</module>
+        <module>falsework-web</module>
     </modules>
     <build>
         <plugins>

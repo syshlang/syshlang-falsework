@@ -18,12 +18,12 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>uwb-system</artifactId>
+    <artifactId>falsework-system</artifactId>
 
     <dependencies>
         <dependency>
             <groupId>com.grgbanking</groupId>
-            <artifactId>uwb-framework</artifactId>
+            <artifactId>falsework-framework</artifactId>
         </dependency>
     </dependencies>
 </project>

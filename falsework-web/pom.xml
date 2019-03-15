@@ -9,10 +9,10 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>uwb-web</artifactId>
+    <artifactId>falsework-web</artifactId>
     <packaging>war</packaging>
 
-    <name>uwb-web Maven Webapp</name>
+    <name>falsework-web Maven Webapp</name>
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
 
@@ -26,11 +26,11 @@
     <dependencies>
         <dependency>
             <groupId>com.grgbanking</groupId>
-            <artifactId>uwb-framework</artifactId>
+            <artifactId>falsework-framework</artifactId>
         </dependency>
         <dependency>
             <groupId>com.grgbanking</groupId>
-            <artifactId>uwb-system</artifactId>
+            <artifactId>falsework-system</artifactId>
         </dependency>
     </dependencies>
     <profiles>
