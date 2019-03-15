@@ -9,7 +9,7 @@
 	<!-- 跨域处理 -->
 	<filter>
 		<filter-name>crossOriginFilter</filter-name>
-		<filter-class>com.smart.mvc.filter.CrossOriginFilter</filter-class>
+		<filter-class>com.syshlang.falsework.mvc.filter.CrossOriginFilter</filter-class>
 	</filter>
 
 	<filter-mapping>
