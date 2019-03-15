@@ -56,7 +56,7 @@ public class SwaggerConfig extends WebMvcConfigurerAdapter {
 
     private ApiInfo apiInfo() {
         ApiInfo apiInfo = new ApiInfoBuilder()
-                .title("GRGBanking-UWB")
+                .title("syshlang-falsework")
                 .description("银通全迹")
                 .termsOfServiceUrl("10.2.8.46")
                 .contact("sunys")

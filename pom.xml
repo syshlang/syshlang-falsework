@@ -15,7 +15,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.grgbanking</groupId>
-    <artifactId>GRGBanking-UWB</artifactId>
+    <artifactId>syshlang-falsework</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 
@@ -26,7 +26,7 @@
         <java.version>1.7</java.version>
 
         <junit.version>4.12</junit.version>
-        <spring.version>4.0.6.RELEASE</spring.version>
+        <spring.version>5.0.9.RELEASE</spring.version>
         <aspectj.version>1.8.9</aspectj.version>
         <dom4j.version>1.6.1</dom4j.version>
         <slf4j.version>1.7.21</slf4j.version>
