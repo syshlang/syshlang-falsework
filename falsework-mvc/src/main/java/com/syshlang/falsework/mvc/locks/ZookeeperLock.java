@@ -19,7 +19,7 @@ import org.slf4j.LoggerFactory;
 /**
  * 基于Zookeeper设计的分布式锁
  * 
- * @author Joe
+ * @author sunys
  */
 public class ZookeeperLock extends DistributedLock {
 	private final Logger LOGGER = LoggerFactory.getLogger(ZookeeperLock.class);

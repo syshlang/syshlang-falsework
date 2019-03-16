@@ -9,7 +9,7 @@ import com.syshlang.falsework.mvc.model.Pagination;
 /**
  * Dao接口
  * 
- * @author Joe
+ * @author sunys
  */
 public interface Dao<T, ID extends Serializable> {
 

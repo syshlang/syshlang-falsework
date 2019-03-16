@@ -11,7 +11,7 @@ import com.syshlang.falsework.mvc.util.StringUtils;
 /**
  * Controller基类
  * 
- * @author Joe
+ * @author sunys
  */
 public class BaseController {
 

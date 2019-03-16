@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * 分页包含列表list属性基类
  * 
- * @author Joe
+ * @author sunys
  */
 public class Pagination<T> extends PaginationSupport implements Serializable {
 	

@@ -16,7 +16,7 @@ import com.syshlang.falsework.mvc.util.StringUtils;
 /**
  * 静态资源允许跨域处理，Nginx可在配置文件中指定
  * 
- * @author Joe
+ * @author sunys
  */
 public class CrossOriginFilter implements Filter {
 

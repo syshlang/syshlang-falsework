@@ -5,7 +5,7 @@ import com.syshlang.falsework.mvc.model.ResultCode;
 /**
  * 验证异常
  * 
- * @author Joe
+ * @author sunys
  */
 public class ValidateException extends ApplicationException {
 

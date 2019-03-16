@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * 验证码缓存工具类
  * 
- * @author Joe
+ * @author sunys
  */
 public class CaptchaHelper {
 

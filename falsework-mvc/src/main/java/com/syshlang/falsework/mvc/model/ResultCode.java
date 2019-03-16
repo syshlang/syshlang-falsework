@@ -3,7 +3,7 @@ package com.syshlang.falsework.mvc.model;
 /**
  * 基础返回码，具体业务返回码可继承ResultCode
  * 
- * @author Joe
+ * @author sunys
  */
 public class ResultCode {
 

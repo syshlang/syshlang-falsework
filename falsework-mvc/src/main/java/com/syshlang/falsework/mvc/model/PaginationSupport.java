@@ -5,7 +5,7 @@ import java.io.Serializable;
 /**
  * 分页基类
  * 
- * @author Joe
+ * @author sunys
  */
 public class PaginationSupport implements Serializable {
 

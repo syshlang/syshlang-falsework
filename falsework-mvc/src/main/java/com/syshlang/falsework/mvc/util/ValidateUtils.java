@@ -6,7 +6,7 @@ import java.util.regex.Pattern;
 /**
  * 验证工具类
  * 
- * @author Joe
+ * @author sunys
  */
 @SuppressWarnings("static-access")
 public class ValidateUtils {

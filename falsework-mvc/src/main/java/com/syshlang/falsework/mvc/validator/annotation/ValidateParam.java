@@ -11,7 +11,7 @@ import com.syshlang.falsework.mvc.validator.Validator;
 /**
  * 自定义请求参数注解
  * 
- * @author Joe
+ * @author sunys
  */
 @Target(ElementType.PARAMETER)
 @Retention(RetentionPolicy.RUNTIME)

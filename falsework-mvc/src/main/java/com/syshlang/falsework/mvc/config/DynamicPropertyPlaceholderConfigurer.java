@@ -14,7 +14,7 @@ import org.springframework.beans.factory.config.PropertyPlaceholderConfigurer;
 /**
  * 支持Properties文件动态参数(仅支持一级，多级需自行扩展)
  * 
- * @author Joe
+ * @author sunys
  */
 public class DynamicPropertyPlaceholderConfigurer extends PropertyPlaceholderConfigurer {
 

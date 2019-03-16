@@ -5,7 +5,7 @@ import com.syshlang.falsework.mvc.model.EnumItemable;
 /**
  * 是否枚举
  * 
- * @author Joe
+ * @author sunys
  */
 public enum TrueFalseEnum implements EnumItemable<TrueFalseEnum> {
 

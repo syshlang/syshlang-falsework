@@ -5,7 +5,7 @@ import java.io.Serializable;
 /**
  * 持久化基类
  * 
- * @author Joe
+ * @author sunys
  */
 public class PersistentObject implements Serializable{
 

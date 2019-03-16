@@ -7,7 +7,7 @@ import com.syshlang.falsework.mvc.util.ValidateUtils;
 /**
  * 验证器
  * 
- * @author Joe
+ * @author sunys
  */
 public enum Validator {
 

@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * 字符串公用类
  * 
- * @author Joe
+ * @author sunys
  */
 public class StringUtils {
 
@@ -44,7 +44,7 @@ public class StringUtils {
 	/**
 	 * Description:验证字符串数组是否为空
 	 * 
-	 * @author 唐海洋
+	 * @author sunys
 	 * @Version 1.0 2016-7-21下午5:34:41 
 	 * @param css
 	 * @return

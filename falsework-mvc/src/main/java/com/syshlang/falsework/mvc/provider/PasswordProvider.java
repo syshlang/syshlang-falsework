@@ -10,7 +10,7 @@ import com.syshlang.falsework.mvc.util.StringUtils;
 /**
  * 密码加密实现提供者
  * 
- * @author Joe
+ * @author sunys
  */
 public class PasswordProvider {
 

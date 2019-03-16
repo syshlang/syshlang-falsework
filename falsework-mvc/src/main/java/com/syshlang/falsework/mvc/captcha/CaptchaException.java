@@ -3,7 +3,7 @@ package com.syshlang.falsework.mvc.captcha;
 /**
  * 验证码异常
  * 
- * @author Joe
+ * @author sunys
  */
 public class CaptchaException extends RuntimeException {
 

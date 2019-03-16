@@ -11,7 +11,7 @@ import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;
 /**
  * 性能监控拦截
  * 
- * @author Joe
+ * @author sunys
  */
 public class StopWatchHandlerInterceptor extends HandlerInterceptorAdapter {
 	

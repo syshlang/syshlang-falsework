@@ -5,7 +5,7 @@ import com.syshlang.falsework.mvc.model.ResultCode;
 /**
  * 应用异常
  * 
- * @author Joe
+ * @author sunys
  */
 public class ApplicationException extends RuntimeException{
 

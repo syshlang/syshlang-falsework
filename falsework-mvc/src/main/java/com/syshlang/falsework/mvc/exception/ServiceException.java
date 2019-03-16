@@ -5,7 +5,7 @@ import com.syshlang.falsework.mvc.model.ResultCode;
 /**
  * 业务逻辑异常
  * 
- * @author Joe
+ * @author sunys
  */
 public class ServiceException extends ApplicationException{
 

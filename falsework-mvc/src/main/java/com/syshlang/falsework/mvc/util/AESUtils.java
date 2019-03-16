@@ -9,7 +9,7 @@ import org.springframework.util.Base64Utils;
 /**
  * 对称加密(AES)
  * 
- * @author Joe
+ * @author sunys
  */
 public class AESUtils {
 	

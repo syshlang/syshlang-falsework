@@ -1,7 +1,7 @@
 /**
  * jQuery multiselect custom
  * 
- * Author Joe
+ * Author sunys
  */
 jQuery(function($) {
 	var def = {

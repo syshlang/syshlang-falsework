@@ -7,7 +7,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * cookie操作工具
  * 
- * @author Joe
+ * @author sunys
  */
 public class CookieUtils {
 

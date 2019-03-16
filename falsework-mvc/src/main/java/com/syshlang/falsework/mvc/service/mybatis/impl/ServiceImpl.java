@@ -21,7 +21,7 @@ import com.syshlang.falsework.mvc.service.mybatis.Service;
  * @param <DAO>
  * @param <T>
  * @param <ID>
- * @author Joe
+ * @author sunys
  */
 public abstract class ServiceImpl<DAO extends Dao<T, ID>, T extends PersistentObject, ID extends Serializable>
 		implements Service<T, ID> {

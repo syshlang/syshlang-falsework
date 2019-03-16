@@ -3,7 +3,7 @@ package com.syshlang.falsework.mvc.model;
 /**
  * 键值对存储模型
  * 
- * @author Joe
+ * @author sunys
  */
 public class Item implements Itemable {
 	

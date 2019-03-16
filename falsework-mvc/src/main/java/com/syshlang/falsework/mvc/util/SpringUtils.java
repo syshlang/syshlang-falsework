@@ -6,7 +6,7 @@ import org.springframework.web.context.WebApplicationContext;
 /**
  * 获取Spring管理的Service实现
  * 
- * @author Joe
+ * @author sunys
  */
 public final class SpringUtils {
 

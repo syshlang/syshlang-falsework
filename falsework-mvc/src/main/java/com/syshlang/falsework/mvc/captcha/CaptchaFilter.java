@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * 用于web.xml生成验证码
  * 
- * @author Joe
+ * @author sunys
  */
 public class CaptchaFilter implements Filter {
 

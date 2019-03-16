@@ -5,7 +5,7 @@ import com.syshlang.falsework.mvc.model.ResultCode;
 /**
  * 数据访问异常
  * 
- * @author Joe
+ * @author sunys
  */
 public class DaoException extends ApplicationException {
 

@@ -1,7 +1,7 @@
 /**
  * jQuery gritter custom
  * 
- * Author Joe
+ * Author sunys
  */
 $.gritter.options = {
 	position: '',

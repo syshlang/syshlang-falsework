@@ -3,7 +3,7 @@ package com.syshlang.falsework.mvc.locks;
 /**
  * 分布式锁
  * 
- * @author Joe
+ * @author sunys
  */
 public abstract class DistributedLock {
 	/**

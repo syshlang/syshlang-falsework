@@ -22,7 +22,7 @@ import org.springframework.web.method.support.ModelAndViewContainer;
 /**
  * 自定义方法参数解析器
  * 
- * @author Joe
+ * @author sunys
  */
 public class MethodArgumentResovler implements HandlerMethodArgumentResolver {
 

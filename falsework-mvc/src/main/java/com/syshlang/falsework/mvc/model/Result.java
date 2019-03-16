@@ -3,7 +3,7 @@ package com.syshlang.falsework.mvc.model;
 /**
  * 返回结果
  * 
- * @author Joe
+ * @author sunys
  */
 public class Result {
 

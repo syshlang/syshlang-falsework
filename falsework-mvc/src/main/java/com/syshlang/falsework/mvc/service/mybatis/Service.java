@@ -13,7 +13,7 @@ import com.syshlang.falsework.mvc.model.PersistentObject;
  * @param <DAO>
  * @param <T>
  * @param <ID>
- * @author Joe
+ * @author sunys
  */
 public interface Service<T extends PersistentObject, ID extends Serializable> {
 

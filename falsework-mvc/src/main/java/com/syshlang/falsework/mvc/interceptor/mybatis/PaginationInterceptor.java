@@ -30,7 +30,7 @@ import com.syshlang.falsework.mvc.model.Pagination;
 /**
  * Mybatis - 分页拦截器
  * 
- * @author Joe
+ * @author sunys
  */
 @Intercepts({ @Signature(type = StatementHandler.class, method = "prepare", args = { Connection.class }),
 		@Signature(type = ResultSetHandler.class, method = "handleResultSets", args = { Statement.class }) })

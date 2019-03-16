@@ -3,7 +3,7 @@ package com.syshlang.falsework.mvc.model;
 /**
  * 键值对基础接口 
  * 
- * @author Joe
+ * @author sunys
  */
 public interface Itemable {
 

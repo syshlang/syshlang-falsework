@@ -19,7 +19,7 @@ import com.syshlang.falsework.mvc.model.ResultCode;
 /**
  * 统一异常处理
  * 
- * @author Joe
+ * @author sunys
  */
 public class ExceptionResolver implements HandlerExceptionResolver {
 

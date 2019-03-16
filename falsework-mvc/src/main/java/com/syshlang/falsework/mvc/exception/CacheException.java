@@ -5,7 +5,7 @@ import com.syshlang.falsework.mvc.model.ResultCode;
 /**
  * 缓存异常
  * 
- * @author Joe
+ * @author sunys
  */
 public class CacheException extends ApplicationException{
 

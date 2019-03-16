@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * 枚举工具类
  * 
- * @author Joe
+ * @author sunys
  */
 public class EnumHelper {
 	public static <E extends EnumItemable<?>> E get(Class<E> enumType, String label) {

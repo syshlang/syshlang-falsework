@@ -10,7 +10,7 @@ import java.util.Random;
 /**
  * 验证码生成器
  * 
- * @author Joe
+ * @author sunys
  */
 public abstract class Captcha {
 

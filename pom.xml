@@ -47,6 +47,9 @@
         <jsp-api.version>2.2</jsp-api.version>
         <swagger.version>1.5.10</swagger.version>
         <springfox.version>2.6.1</springfox.version>
+        <poi.version>3.12</poi.version>
+        <jxl.version>2.6</jxl.version>
+        <zookeeper.version>0.1</zookeeper.version>
     </properties>
 
 
@@ -71,6 +74,11 @@
             <dependency>
                 <groupId>com.grgbanking</groupId>
                 <artifactId>falsework-system</artifactId>
+                <version>${project.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.grgbanking</groupId>
+                <artifactId>falsework-mvc</artifactId>
                 <version>${project.version}</version>
             </dependency>
         </dependencies>
@@ -132,6 +140,11 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-aop</artifactId>
+            <version>${spring.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-beans</artifactId>
             <version>${spring.version}</version>
         </dependency>
         <dependency>
@@ -319,6 +332,38 @@
             <groupId>io.springfox</groupId>
             <artifactId>springfox-swagger-ui</artifactId>
             <version>${springfox.version}</version>
+        </dependency>
+        <!-- Excel -->
+        <dependency>
+            <groupId>dom4j</groupId>
+            <artifactId>dom4j</artifactId>
+            <version>${dom4j.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi</artifactId>
+            <version>${poi.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi-ooxml</artifactId>
+            <version>${poi.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi-ooxml-schemas</artifactId>
+            <version>${poi.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>jexcelapi</groupId>
+            <artifactId>jxl</artifactId>
+            <version>${jxl.version}</version>
+        </dependency>
+        <!-- Zookeeper -->
+        <dependency>
+            <groupId>com.github.sgroschupf</groupId>
+            <artifactId>zkclient</artifactId>
+            <version>${zookeeper.version}</version>
         </dependency>
     </dependencies>
 
