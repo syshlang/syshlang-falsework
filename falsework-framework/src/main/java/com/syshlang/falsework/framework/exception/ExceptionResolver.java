@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2018. GRGBanking
+ * Copyright (c) 2018. syshlangcom
  * @File: ExceptionResolver.java
  * @Description:
  * @Author: sunys
@@ -9,10 +9,11 @@
 
 package com.syshlang.falsework.framework.exception;
 
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
 import org.springframework.web.servlet.HandlerExceptionResolver;
 import org.springframework.web.servlet.ModelAndView;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
 
 /**
  * Created by sunys on 2018/12/17.

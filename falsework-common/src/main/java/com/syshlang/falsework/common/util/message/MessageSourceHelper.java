@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2018. GRGBanking
+ * Copyright (c) 2018. syshlangcom
  * @File: MessageSourceHelper.java
  * @Description:
  * @Author: sunys

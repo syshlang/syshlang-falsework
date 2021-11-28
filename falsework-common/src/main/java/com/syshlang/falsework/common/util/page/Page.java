@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2018. GRGBanking
+ * Copyright (c) 2018. syshlangcom
  * @File: Page.java
  * @Description:
  * @Author: sunys
@@ -9,7 +9,6 @@
 
 package com.syshlang.falsework.common.util.page;
 
-import com.github.pagehelper.StringUtil;
 import org.apache.commons.lang3.StringUtils;
 
 /**

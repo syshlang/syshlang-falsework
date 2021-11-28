@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2018. GRGBanking
+ * Copyright (c) 2018. syshlangcom
  * @File: UserServiceTest.java
  * @Description:
  * @Author: sunys
@@ -8,8 +8,6 @@
  */
 
 package com.syshlang.falsework.system.service;
-import java.util.Date;
-import java.util.List;
 
 import com.syshlang.falsework.system.model.UserModel;
 import org.junit.Test;
@@ -17,6 +15,9 @@ import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
+
+import java.util.Date;
+import java.util.List;
 
 /**
  * Created by sunys on 2018/12/18.

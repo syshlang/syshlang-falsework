@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2018. GRGBanking
+ * Copyright (c) 2018. syshlangcom
  * @File: EncryptPropertyPlaceholderConfigurer.java
  * @Description:
  * @Author: sunys

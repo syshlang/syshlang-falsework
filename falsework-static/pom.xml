@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<artifactId>syshlang-falsework</artifactId>
-		<groupId>com.grgbanking</groupId>
+		<groupId>com.syshlang</groupId>
 		<version>1.0-SNAPSHOT</version>
 	</parent>
 	<artifactId>falsework-static</artifactId>
@@ -18,7 +18,7 @@
 	<dependencies>
 		<!-- falsework-mvc包支持 -->
 		<dependency>
-			<groupId>com.grgbanking</groupId>
+			<groupId>com.syshlang</groupId>
 			<artifactId>falsework-mvc</artifactId>
 			<version>${project.parent.version}</version>
 		</dependency>
