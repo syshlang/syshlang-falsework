@@ -47,7 +47,7 @@
         <jsp-api.version>2.2</jsp-api.version>
         <swagger.version>1.5.10</swagger.version>
         <springfox.version>2.6.1</springfox.version>
-        <poi.version>3.17</poi.version>
+        <poi.version>4.1.1</poi.version>
         <jxl.version>2.6</jxl.version>
         <zookeeper.version>0.1</zookeeper.version>
     </properties>
